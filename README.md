@@ -2,7 +2,6 @@
 
 - **Name:** Bala Ashwin R
 - **Register number:** 1921260102
-- **Partner (Student B):** <fill in name / reg no>
 - **Java version:** OpenJDK 21 (any JDK 17+ works)
 
 ## Compile and run (every task)
