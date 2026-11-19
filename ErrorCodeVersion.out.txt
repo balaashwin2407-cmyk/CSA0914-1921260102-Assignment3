@@ -1,0 +1,2 @@
+Error: Could not find or load main class ErrorCodeVersion.java
+Caused by: java.lang.ClassNotFoundException: ErrorCodeVersion.java
